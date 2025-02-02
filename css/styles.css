@@ -464,8 +464,8 @@ p {
 }
 
 .down-text {
-    margin-top: -40px;
     color: #FFFFFF;
+    
 }
 
 .media-link:hover,
@@ -516,6 +516,10 @@ p {
 .submit-sub:hover,
 .submit-sub:focus {
     background-color: var(--hover-text-color);
+}
+.text-div{
+    width: 264px;
+    margin-top: 16px;
 }
 
 /* modal */
